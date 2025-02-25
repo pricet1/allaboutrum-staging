@@ -17,12 +17,12 @@ listing:
     sort: date desc
 ---
 
-## Upcoming
+### Upcoming
 
 :::{#events-upcoming}
 :::
 
-## Past
+### Past
 
 :::{#events-past}
 :::

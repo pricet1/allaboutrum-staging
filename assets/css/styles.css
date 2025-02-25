@@ -13,6 +13,8 @@
   --clr-light-grey-1: hsl(210, 16.67%, 97.65%);        /* #f8f9fa */
   --clr-light-grey-2: hsl(210, 8.11%, 85.49%);         /* #d7dadd */
 
+  --clr-red: hsl(0, 50.64%, 46.08%);                   /* #b13a3a *
+
   --clr-debug-light-pink: hsl(311.16, 72.88%, 88.43%); /* #f7ccef */
   --clr-debug-light-blue: hsl(212.04, 73.05%, 72.35%); /* #85b5ec */
   --clr-debug-light-green: hsl(120, 100%, 90%);        /* #ccffcc */
@@ -41,6 +43,8 @@
   --footer-bkgrnd-clr: var(--clr-light-grey-1);
   --icons-clr: var(--link-clr);
   --icons-hover-clr: var(--clr-bright-blue);
+
+  --icon-heart-clr: var(--clr-red);
 
   --font-sys-stack: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
@@ -238,6 +242,10 @@ a.github-icon:hover, a.github-icon:focus {
   color: var(--icons-hover-clr);
 }
 
+.icon-heart {
+  color: var(--icon-heart-clr);
+}
+
 h3 .event-title {
   font-size: 1.2rem;
   font-weight: var(--font-wt-semi-bold);
@@ -245,8 +253,8 @@ h3 .event-title {
 
 .sep {
   position: relative;
-  top: 0.1em;
-  left: 0.1em;
+  top: 0.2em;
+  left: 0.05em;
 }
 
 .event-summary {
@@ -269,10 +277,11 @@ p.card-img-top {
 }
 
 .quarto-listing-container-grid img {
-  width: 140px;
+  width: auto;
   height: auto;
   border: 1px solid var(--clr-light-grey-2);
-  margin: 6px 3px;
+  border-bottom: none;
+  margin: 10px 3px 0 3px;
   padding: 0;
 }
 

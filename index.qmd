@@ -73,7 +73,7 @@ researchers at the University of Manchester, UK.
 :::: {.about-grid-right-col}
 ### Activities
 
-- Monthly meetings
+- Quarterly meetings
 - Tidy Tuesdays
 ::::
 <!-- end: .about-grid-right-col -->
