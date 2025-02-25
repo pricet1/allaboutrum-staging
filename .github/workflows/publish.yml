@@ -1,16 +1,15 @@
 on:
   workflow_dispatch:
   push:
-    branches: [main, dev]
+    branches: main
 
-name: Quarto Publish with Optional Staging
+name: Quarto Publish
 
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -28,18 +27,9 @@ jobs:
         with:
           cache-version: 1
 
-      - name: Render Site
-        run: |
-          if [ "${{ github.ref }}" = "refs/heads/dev" ]; then
-            quarto render --output-dir dev
-          else
-            quarto render
-          fi
-
-      - name: Publish Site to Live or Staging Area
+      - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
-          path: ${{ github.ref == 'refs/heads/dev' && 'dev' || '.' }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
