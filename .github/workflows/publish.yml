@@ -1,7 +1,7 @@
 on:
   workflow_dispatch:
   push:
-    branches: [main, dev]
+    branches: main
 
 name: Quarto Publish
 
@@ -27,19 +27,9 @@ jobs:
         with:
           cache-version: 1
 
-      - name: Determine deployment path
-        id: deploy-path
-        run: |
-          if [ "${{ github.ref_name }}" = "main" ]; then
-            echo "path=" >> $GITHUB_OUTPUT
-          else
-            echo "path=dev" >> $GITHUB_OUTPUT
-          fi
-
-      - name: Render and Publish to live or staging
+      - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
-          path: ${{ steps.deploy-path.outputs.path }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
