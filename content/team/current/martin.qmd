@@ -15,8 +15,7 @@ about:
 
 <!-- Current team member -->
 
-Martin is a Research Software Engineer at
-[ResearchIT](https://www.itservices.manchester.ac.uk/research/). His job is to
-help researchers write better code, and regularly delivers an intro-to-R
-workshop. He has a background in solar energy, with experience in systems
-modelling, data analysis, state estimation and optimization.
+Martin is a Research Software Engineer at ResearchIT. His job is to help
+researchers write better code, and regularly delivers an intro-to-R workshop. He
+has a background in solar energy, with experience in systems modelling, data
+analysis, state estimation and optimization.

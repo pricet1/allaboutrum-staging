@@ -14,9 +14,9 @@ about:
 <!-- Current team member -->
 
 Toni is a Research Software Engineer at UoM with a passion for R, which she
-first encountered whilst developing code to conduct her PhD research in the
-[Centre for Multilevel Modelling](https://www.bristol.ac.uk/cmm). This
-experience sparked a deep appreciation for R's power both as a functional
-programming language and for statistical analysis (she also has a great fondness
-for ggplot2). Toni's special interests are reproducible research & reporting,
-data visualisation and software quality.
+first encountered whilst developing code for her PhD research in the
+[Centre for Multilevel Modelling](https://www.bristol.ac.uk/cmm). This sparked a
+deep appreciation for R's power both as a functional programming language and
+for statistical analysis (she also has a great fondness for ggplot2). Toni's
+special interests are reproducible research & reporting, data visualisation and
+software quality.

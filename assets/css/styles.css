@@ -277,11 +277,11 @@ p.card-img-top {
 }
 
 .quarto-listing-container-grid img {
-  width: 140px;
+  width: auto;
   height: auto;
   border: 1px solid var(--clr-light-grey-2);
   border-bottom: none;
-  margin: 6px 3px 0 3px;
+  margin: 10px 3px 0 3px;
   padding: 0;
 }
 
