@@ -7,5 +7,5 @@ format: html
 <!-- # Contact -->
 
 Get in touch at \
-r-user-group@manchester.ac.uk
+[r-user-group@manchester.ac.uk](mailto:r-user-group@manchester.ac.uk)
 :::

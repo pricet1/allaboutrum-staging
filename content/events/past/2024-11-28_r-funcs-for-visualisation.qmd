@@ -1,0 +1,31 @@
+---
+title: "[Executable and Reproducible Papers with Quarto and Docker]{.event-title}"
+subtitle: "[In this month’s meeting with speaker Gabriel Strain, Learn how to use quarto and docker to produce a formatted, reproducible and executable conference of journal article.]{.event-summary} <br> \
+[Thu Nov 28, 2024 @ 12:00 pm - 1:00 pm]{.event-time} [&#8226;]{.sep} [Room 2.217 University Place (University of Manchester) &amp; Online via Microsoft Teams]{.event-location}"
+format:
+  html:
+    anchor-sections: false
+date: "2024-11-28"
+---
+
+Attention **R beginners**:
+ 
+Tired of copy pasting blocks of code? Found yourself fixing the same bug in five
+different places? Want to test many variations of your script? Generate multiple
+similar plots?
+ 
+Write R functions! They will make your R code more concise, easier to read,
+debug, and maintain.
+
+We'll have two short sessions:
+
+**Chair** TBC
+
+**Talk 1** *Introduction to Functions*, speaker **Martin Herrerias**
+
+Martin will discuss basic function syntax, arguments, and environments.
+
+**Talk 2** *Generating Plots with Functions*, speaker **Sian Bladon**
+
+Sian will give a brief introduction to ggplot2 and talk about using the map
+function from purrr to automate creating multiple plots.

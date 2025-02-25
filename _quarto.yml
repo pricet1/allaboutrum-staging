@@ -2,7 +2,7 @@ project:
   type: website
 
   preview:
-    port: 4321
+    port: 4322
     browser: true
 
 website:
