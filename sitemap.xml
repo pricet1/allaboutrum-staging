@@ -2,78 +2,102 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://pricet1.github.io/allaboutrum-staging/content/team/index.html</loc>
-    <lastmod>2025-02-25T09:11:54.127Z</lastmod>
+    <lastmod>2025-02-25T16:56:32.457Z</lastmod>
   </url>
   <url>
     <loc>https://pricet1.github.io/allaboutrum-staging/content/team/past/rowan.html</loc>
-    <lastmod>2025-02-25T09:11:54.127Z</lastmod>
+    <lastmod>2025-02-25T16:56:32.457Z</lastmod>
   </url>
   <url>
     <loc>https://pricet1.github.io/allaboutrum-staging/content/team/past/kamilla.html</loc>
-    <lastmod>2025-02-25T09:11:54.127Z</lastmod>
+    <lastmod>2025-02-25T16:56:32.457Z</lastmod>
   </url>
   <url>
-    <loc>https://pricet1.github.io/allaboutrum-staging/content/team/current/lana.html</loc>
-    <lastmod>2025-02-25T09:11:54.127Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pricet1.github.io/allaboutrum-staging/content/contact.html</loc>
-    <lastmod>2025-02-25T09:11:54.126Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pricet1.github.io/allaboutrum-staging/content/events/index.html</loc>
-    <lastmod>2025-02-25T09:11:54.126Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pricet1.github.io/allaboutrum-staging/content/events/past/2023-06-29_automating-reports.html</loc>
-    <lastmod>2025-02-25T09:11:54.126Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pricet1.github.io/allaboutrum-staging/content/events/past/2023-07-12_r4ds-book-club.html</loc>
-    <lastmod>2025-02-25T09:11:54.126Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pricet1.github.io/allaboutrum-staging/content/events/past/2023-10-26_semester-welcome.html</loc>
-    <lastmod>2025-02-25T09:11:54.126Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pricet1.github.io/allaboutrum-staging/index.html</loc>
-    <lastmod>2025-02-25T09:11:54.127Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pricet1.github.io/allaboutrum-staging/content/events/past/2023-11-16_tidy-thurs.html</loc>
-    <lastmod>2025-02-25T09:11:54.126Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pricet1.github.io/allaboutrum-staging/content/events/past/2023-11-30_r-pkg-dev.html</loc>
-    <lastmod>2025-02-25T09:11:54.126Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pricet1.github.io/allaboutrum-staging/content/events/past/2023-04-27_data-viz.html</loc>
-    <lastmod>2025-02-25T09:11:54.126Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pricet1.github.io/allaboutrum-staging/content/events/past/2023-05-25_pub-ready-tables.html</loc>
-    <lastmod>2025-02-25T09:11:54.126Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pricet1.github.io/allaboutrum-staging/content/privacy.html</loc>
-    <lastmod>2025-02-25T09:11:54.127Z</lastmod>
+    <loc>https://pricet1.github.io/allaboutrum-staging/content/team/current/toni.html</loc>
+    <lastmod>2025-02-25T16:56:32.457Z</lastmod>
   </url>
   <url>
     <loc>https://pricet1.github.io/allaboutrum-staging/content/team/current/stavrina.html</loc>
-    <lastmod>2025-02-25T09:11:54.127Z</lastmod>
+    <lastmod>2025-02-25T16:56:32.456Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pricet1.github.io/allaboutrum-staging/content/contact.html</loc>
+    <lastmod>2025-02-25T16:56:32.455Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pricet1.github.io/allaboutrum-staging/content/events/index.html</loc>
+    <lastmod>2025-02-25T16:56:32.455Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pricet1.github.io/allaboutrum-staging/content/events/past/2023-06-29_automating-reports.html</loc>
+    <lastmod>2025-02-25T16:56:32.456Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pricet1.github.io/allaboutrum-staging/content/events/past/2023-04-27_data-viz.html</loc>
+    <lastmod>2025-02-25T16:56:32.455Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pricet1.github.io/allaboutrum-staging/content/events/past/2023-07-12_r4ds-book-club.html</loc>
+    <lastmod>2025-02-25T16:56:32.456Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pricet1.github.io/allaboutrum-staging/content/events/past/2023-11-30_r-pkg-dev.html</loc>
+    <lastmod>2025-02-25T16:56:32.456Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pricet1.github.io/allaboutrum-staging/content/events/past/2023-11-16_tidy-thurs.html</loc>
+    <lastmod>2025-02-25T16:56:32.456Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pricet1.github.io/allaboutrum-staging/index.html</loc>
+    <lastmod>2025-02-25T16:56:32.457Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pricet1.github.io/allaboutrum-staging/content/events/upcoming/2025-02-27_spatial-data-and-mapping.html</loc>
+    <lastmod>2025-02-25T16:56:32.456Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pricet1.github.io/allaboutrum-staging/content/events/past/2023-10-26_semester-welcome.html</loc>
+    <lastmod>2025-02-25T16:56:32.456Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pricet1.github.io/allaboutrum-staging/content/events/past/2024-06-27_deep-learning-getting-started.html</loc>
+    <lastmod>2025-02-25T16:56:32.456Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pricet1.github.io/allaboutrum-staging/content/events/past/2024-09-26_quarto-and-docker.html</loc>
+    <lastmod>2025-02-25T16:56:32.456Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pricet1.github.io/allaboutrum-staging/content/events/past/2024-11-28_r-funcs-for-visualisation.html</loc>
+    <lastmod>2025-02-25T16:56:32.456Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pricet1.github.io/allaboutrum-staging/content/events/past/2023-05-25_pub-ready-tables.html</loc>
+    <lastmod>2025-02-25T16:56:32.455Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pricet1.github.io/allaboutrum-staging/content/privacy.html</loc>
+    <lastmod>2025-02-25T16:56:32.456Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pricet1.github.io/allaboutrum-staging/content/team/current/martin.html</loc>
+    <lastmod>2025-02-25T16:56:32.456Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pricet1.github.io/allaboutrum-staging/content/team/current/lana.html</loc>
+    <lastmod>2025-02-25T16:56:32.456Z</lastmod>
   </url>
   <url>
     <loc>https://pricet1.github.io/allaboutrum-staging/content/team/current/sian.html</loc>
-    <lastmod>2025-02-25T09:11:54.127Z</lastmod>
+    <lastmod>2025-02-25T16:56:32.456Z</lastmod>
   </url>
   <url>
     <loc>https://pricet1.github.io/allaboutrum-staging/content/team/past/mychel.html</loc>
-    <lastmod>2025-02-25T09:11:54.127Z</lastmod>
+    <lastmod>2025-02-25T16:56:32.457Z</lastmod>
   </url>
   <url>
     <loc>https://pricet1.github.io/allaboutrum-staging/content/team/past/lucy.html</loc>
-    <lastmod>2025-02-25T09:11:54.127Z</lastmod>
+    <lastmod>2025-02-25T16:56:32.457Z</lastmod>
   </url>
 </urlset>
