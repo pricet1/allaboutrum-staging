@@ -19,7 +19,7 @@ debug, and maintain.
 
 We'll have two short sessions:
 
-**Chair** TBC
+**Chair** TBA
 
 **Talk 1** *Introduction to Functions*, speaker **Martin Herrerias**
 
