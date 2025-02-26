@@ -1,6 +1,6 @@
 ---
 title: "[Spatial Data and Mapping in R]{.event-title}"
-subtitle: "[This month’s meeting with speaker Maryna Shedzko introduces the basics of spatial data and how to create stunning maps in R.]{.event-summary} <br> \
+subtitle: "[In this meeting speaker Maryna Shedzko introduces the basics of spatial data and how to create stunning maps in R.]{.event-summary} <br> \
 [Thu Feb 27, 2025 @ 12:00 pm - 1:00 pm]{.event-time} [&#8226;]{.sep} [Ellen Wilkinson Building (University of Manchester) &amp; Online via Microsoft Teams]{.event-location}"
 format:
   html:
@@ -8,7 +8,7 @@ format:
 date: "2025-02-27"
 ---
 
-**Talk** *Spatial Data and Mapping in R*, speaker **Maryna Shedzko**
+**Talk**: *Spatial Data and Mapping in R* &#8212; speaker **Maryna Shedzko**
 
 **Do you have an urge to know** ***where?***
 
