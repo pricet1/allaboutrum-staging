@@ -1,7 +1,8 @@
 ---
 title: "[R package development]{.event-title}"
 subtitle: "[Glen Martin & Augustin Mutak talk about their experience with R package development.]{.event-summary} <br> \
-[Nov 30 2023 @ 12:00 pm - 1:00 pm]{.event-time} [&#8226;]{.sep} [Engineering A 3A.057 (University of Manchester) &amp; Online via Microsoft Teams]{.event-location}"
+[Nov 30 2023 @ 12:00 pm - 1:00 pm]{.event-time} <br> \
+[Room 3A.057, Engineering A (University of Manchester) [&#8226;]{.sep} Online via Microsoft Teams]{.event-location}"
 format:
   html:
     anchor-sections: false

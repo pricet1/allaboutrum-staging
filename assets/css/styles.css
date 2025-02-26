@@ -253,18 +253,22 @@ h3 .event-title {
 
 .sep {
   position: relative;
-  top: 0.2em;
-  left: 0.05em;
+  top: 0.1em;
+  left: 0;
+}
+
+.listing-subtitle {
+  width: 36em;
 }
 
 .event-summary {
   font-family: Montserrat, Roboto, var(--font-sys-stack);
-  font-size: 0.9rem;
+  font-size: 1.1rem;
 }
 
 .event-time, .event-location {
   font-style: italic;
-  font-size: 0.8rem;
+  font-size: 1rem;
 }
 
 .listing-date {
