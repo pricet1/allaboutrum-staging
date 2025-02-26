@@ -1,7 +1,8 @@
 ---
 title: "[Getting Things Done Done in R Series &#8212; Data Visualisation]{.event-title}"
 subtitle: "[In this month’s meeting with speakers Sian Bladon and Kamilla Kopec-Harding we look at data visualisation with ggplot2 and ggplot2 extensions.]{.event-summary} <br> \
-[Thu Apr 27, 2023 @ 1:00 pm - 2:00 pm]{.event-time} [&#8226;]{.sep} [Engineering A Room 3A.016 (University of Manchester)]{.event-location}"
+[Thu Apr 27, 2023 @ 1:00 pm - 2:00 pm]{.event-time} <br> \
+[Room 3A.016, Engineering A (University of Manchester)]{.event-location}"
 format:
   html:
     anchor-sections: false
