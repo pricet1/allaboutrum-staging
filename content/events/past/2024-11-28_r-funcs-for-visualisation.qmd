@@ -20,8 +20,6 @@ debug, and maintain.
 
 We'll have two short sessions:
 
-**Chair**: TBA
-
 **Talk 1**: *Introduction to Functions* &#8212; speaker **Martin Herrerias**
 
 Martin will discuss basic function syntax, arguments, and environments.
