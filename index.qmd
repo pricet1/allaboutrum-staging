@@ -75,6 +75,11 @@ researchers at the University of Manchester, UK.
 
 - Quarterly meetings
 - Tidy Tuesdays
+
+::: {.small-note}
+Please check the events tab for upcoming activities
+:::
+
 ::::
 <!-- end: .about-grid-right-col -->
 
