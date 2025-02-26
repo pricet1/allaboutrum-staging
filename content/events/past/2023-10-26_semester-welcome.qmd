@@ -22,16 +22,16 @@ In this session with speakers Lana Bojanic, Sian Bladon, and Martin Herrerias Az
 
 *The Microsoft Teams chat is only available for members of the University of Manchester, if you want to get in touch write us an email at r-user-group@manchester.ac.uk*
 
-**Chair** Martin Herrerias Azcue
+**Chair**: Martin Herrerias Azcue
 
-**Talk 1:** *An OveRview*, speaker **Lana Bojanic**, the University of Manchester
+**Talk 1**: *An OveRview* &#8212; speaker **Lana Bojanic**, the University of Manchester
 
 I will present my favourite bits and pieces of the R language.
 
-**Talk 2:** *TidyTuesdays*, speaker **Sian Bladon**, the University of Manchester
+**Talk 2**: *TidyTuesdays* &#8212; speaker **Sian Bladon**, the University of Manchester
 
 A quick talk about the coming TidyTuesday Data Visualization Club events for the coming academic year.
 
-**Talk 3:** *R4DS: Book Club, a Discussion*, speaker **Martin Herrerias Azcue**, Research Software Engineer, the University of Manchester
+**Talk 3**: *R4DS: Book Club, a Discussion* &#8212; speaker **Martin Herrerias Azcue**, Research Software Engineer, the University of Manchester
 
 I will give a summary and discuss some take-aways from the R4DS Book Club we ran over Summer 2023, including our favourite verbs, functions, and what some of the attendees benefited from the most.

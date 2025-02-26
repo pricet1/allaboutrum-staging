@@ -21,6 +21,7 @@ publish_date: "2023-09-25T00:00:00"
 Over the months of July, August and September 2023, members of the R User Group at the University of Manchester (RUM) organising committee organised and ran study book club study sessions for the 2nd edition of *R for Data Science* by Hadley Wickham.
 
 ### Event
+
 Each week we covered new material from the 2nd edition of [R for Data Science](https://r4ds.hadley.nz/). A volunteer chair ran the study session by welcoming everyone and introduced the new concepts and topics covered. Participants then broke out into groups and shared how they tackled exercises within their groups. The chair wrapped each session with a summary and held space for open questions and conversation.
 
 ### Chairs
